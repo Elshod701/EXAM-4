@@ -1,0 +1,13 @@
+.intro_img {
+  background-repeat: no-repeat;
+  width: 1440px;
+  margin-top: 40px;
+}
+
+.btn_intro:hover > i {
+  color: black;
+}
+
+.btn_intro:active > i {
+  color: rgb(255, 255, 255);
+}
