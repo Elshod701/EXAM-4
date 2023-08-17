@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"style.min.css"}
+{"version":3,"sourceRoot":"","sources":["../src/components/Layout/Section_2/style.scss"],"names":[],"mappings":"AAAA,MACE,YACA,aACA,kBACA,YACE,4BACA,sBACA,+BACA,eAIJ,QACE,eACA,6BACA,cAGF,WACE","file":"style.min.css"}

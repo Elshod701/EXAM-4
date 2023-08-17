@@ -1,8 +1,7 @@
-import React from "react";
-import card_1 from "/src/assets/images/card-1.png";
-import card_2 from "/src/assets/images/card-2.png";
-import card_3 from "/src/assets/images/card-3.png";
-import card_4 from "/src/assets/images/card-4.png";
+import card_5 from "/src/assets/images/card-5.png";
+import card_6 from "/src/assets/images/card-6.png";
+import card_7 from "/src/assets/images/card-7.png";
+import card_8 from "/src/assets/images/card-8.png";
 
 import "./style.scss";
 const index = () => {
@@ -72,7 +71,7 @@ const index = () => {
             </div>
             <div className="section_2_Allcards flex justify-between items-center ">
               <div className="card">
-                <img src={card_1} alt="" />
+                <img src={card_5} alt="" />
                 <div className="card-body pt-[20px] text-center">
                   <h3 Tulips className="title text-xl">
                     Red Tulips
@@ -83,7 +82,7 @@ const index = () => {
                 </div>
               </div>
               <div className="card">
-                <img src={card_2} alt="" />
+                <img src={card_6} alt="" />
                 <div className="card-body pt-[20px] text-center">
                   <h3 Tulips className="title text-xl">
                     White roses, 7pc.
@@ -94,7 +93,7 @@ const index = () => {
                 </div>
               </div>
               <div className="card">
-                <img src={card_3} alt="" />
+                <img src={card_7} alt="" />
                 <div className="card-body pt-[20px] text-center">
                   <h3 Tulips className="title text-xl">
                     Bouqueet “Dream”
@@ -105,7 +104,7 @@ const index = () => {
                 </div>
               </div>
               <div className="card">
-                <img src={card_4} alt="" />
+                <img src={card_8} alt="" />
                 <div className="card-body pt-[20px] text-center">
                   <h3 Tulips className="title text-xl">
                     White lilies, 21 pc.
