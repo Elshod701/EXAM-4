@@ -7,7 +7,7 @@ function index() {
   return (
     <>
       <div className="container mx-auto px-5 w-[1200px]">
-        <section className="section-1">
+        <section className="section-1 mt-[170px]">
           <img className="intro_img z-[-10] relative" src={image} alt="" />
           <p className="mt-[-180px] font-medium ml-[80px] text-[28px] font-Inter-Medium">
             40% OFF

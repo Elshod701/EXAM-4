@@ -1,3 +1,7 @@
+import card_1 from "/src/assets/images/card-1.png";
+import card_2 from "/src/assets/images/card-2.png";
+import card_3 from "/src/assets/images/card-3.png";
+import card_4 from "/src/assets/images/card-4.png";
 import card_5 from "/src/assets/images/card-5.png";
 import card_6 from "/src/assets/images/card-6.png";
 import card_7 from "/src/assets/images/card-7.png";
